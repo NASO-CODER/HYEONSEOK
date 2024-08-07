@@ -60,42 +60,7 @@ c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"></path></svg></span>
 								</a>
 							</div>
 							<a href="mailto:info@site.com"
-								class="u-active-none u-align-right u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-white u-btn-1"
-								data-lang-en="{&quot;content&quot;:&quot;​<span class=\&quot;u-icon u-icon-4\
-								&quot; style="color:"rgb(70, 138, 201) !important\&quot;><svg
-									xmlns=\&quot;http://www.w3.org/2000/svg\&quot;
-									xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot;
-									version=\&quot;1.1\&quot; xml:space=\&quot;preserve\&quot;
-									class=\&quot;u-svg-content\&quot; viewBox=\&quot;0
-									0 24 16\&quot; x=\&quot;0px\&quot; y=\&quot;0px\&quot;
-									style="width:"
-									1em; height: 1em;\&quot; data-color=\&quot;#468ac9\&quot;>
-										<path fill=\&quot;currentColor\&quot;
-										d=\&quot;M23.8,1.1l-7.3,6.8l7.3,6.8c0.1-0.2,0.2-0.6,0.2-0.9V2C24,1.7,23.9,1.4,23.8,1.1zM21.8,0H2.2\n\tc-0.4,0-0.7,0.1-1,0.2L10.6,9c0.8,0.8,2.2,0.8,3,0l9.2-8.7C22.6,0.1,22.2,0,21.8,0zM0.2,1.1C0.1,1.4,0,1.7,0,2V14\n\tc0,0.3,0.1,0.6,0.2,0.9l7.3-6.8L0.2,1.1zM15.5,9l-1.1,1c-1.3,1.2-3.6,1.2-4.9,0l-1-1l-7.3,6.8c0.2,0.1,0.6,0.2,1,0.2H22\n\tc0.4,0,0.6-0.1,1-0.2L15.5,9z\&quot;></path></svg></span>&amp;nbsp;maru@yahoo.co.jp&quot;,&quot;href&quot;:&quot;mailto:info@site.com&quot;}"
-								data-lang-ko="{&quot;content&quot;:&quot;​<span
-								class=\&quot;u-icon u-icon-4\&quot; style="color:"rgb(70, 138, 201) !important\&quot;><svg
-										xmlns=\&quot;http://www.w3.org/2000/svg\&quot;
-										xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot;
-										version=\&quot;1.1\&quot; xml:space=\&quot;preserve\&quot;
-										class=\&quot;u-svg-content\&quot; viewBox=\&quot;0
-										0 24 16\&quot; x=\&quot;0px\&quot; y=\&quot;0px\&quot;
-										style="width:"
-										1em; height: 1em;\&quot; data-color=\&quot;#468ac9\&quot;>
-											<path fill=\&quot;currentColor\&quot;
-											d=\&quot;M23.8,1.1l-7.3,6.8l7.3,6.8c0.1-0.2,0.2-0.6,0.2-0.9V2C24,1.7,23.9,1.4,23.8,1.1zM21.8,0H2.2\n\tc-0.4,0-0.7,0.1-1,0.2L10.6,9c0.8,0.8,2.2,0.8,3,0l9.2-8.7C22.6,0.1,22.2,0,21.8,0zM0.2,1.1C0.1,1.4,0,1.7,0,2V14\n\tc0,0.3,0.1,0.6,0.2,0.9l7.3-6.8L0.2,1.1zM15.5,9l-1.1,1c-1.3,1.2-3.6,1.2-4.9,0l-1-1l-7.3,6.8c0.2,0.1,0.6,0.2,1,0.2H22\n\tc0.4,0,0.6-0.1,1-0.2L15.5,9z\&quot;></path></svg></span>&amp;nbsp;maru@yahoo.co.jp&quot;,&quot;href&quot;:&quot;mailto:info@site.com&quot;}"
-								data-lang-ja="{&quot;content&quot;:&quot;​<span
-								class=\&quot;u-icon u-icon-4
-								u-block-control\&quot; style="color:"
-								rgb(70, 138, 201) !important\&quot; data-block=\&quot;108\&quot;><svg
-										xmlns=\&quot;http://www.w3.org/2000/svg\&quot;
-										xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot;
-										version=\&quot;1.1\&quot; xml:space=\&quot;preserve\&quot;
-										class=\&quot;u-svg-content\&quot; viewBox=\&quot;0
-										0 24 16\&quot; x=\&quot;0px\&quot; y=\&quot;0px\&quot;
-										style="width:"
-										1em; height: 1em;\&quot; data-color=\&quot;#468ac9\&quot;>
-											<path fill=\&quot;currentColor\&quot;
-											d=\&quot;M23.8,1.1l-7.3,6.8l7.3,6.8c0.1-0.2,0.2-0.6,0.2-0.9V2C24,1.7,23.9,1.4,23.8,1.1zM21.8,0H2.2\n\tc-0.4,0-0.7,0.1-1,0.2L10.6,9c0.8,0.8,2.2,0.8,3,0l9.2-8.7C22.6,0.1,22.2,0,21.8,0zM0.2,1.1C0.1,1.4,0,1.7,0,2V14\n\tc0,0.3,0.1,0.6,0.2,0.9l7.3-6.8L0.2,1.1zM15.5,9l-1.1,1c-1.3,1.2-3.6,1.2-4.9,0l-1-1l-7.3,6.8c0.2,0.1,0.6,0.2,1,0.2H22\n\tc0.4,0,0.6-0.1,1-0.2L15.5,9z\&quot;></path></svg></span>&amp;nbsp;maru@yahoo.co.jp&quot;,&quot;href&quot;:&quot;mailto:info@site.com&quot;}"><span
+								class="u-active-none u-align-right u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-white u-btn-1"><span
 								class="u-icon u-icon-4"><svg class="u-svg-content"
 										viewBox="0 0 24 16" x="0px" y="0px"
 										style="width: 1em; height: 1em;">
@@ -105,39 +70,7 @@ c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"></path></svg></span>
 	c0,0.3,0.1,0.6,0.2,0.9l7.3-6.8L0.2,1.1z M15.5,9l-1.1,1c-1.3,1.2-3.6,1.2-4.9,0l-1-1l-7.3,6.8c0.2,0.1,0.6,0.2,1,0.2H22
 	c0.4,0,0.6-0.1,1-0.2L15.5,9z"></path></svg></span>&nbsp;maru@yahoo.co.jp
 							</a> <a href="#"
-								class="u-active-none u-align-right u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-2"
-								data-lang-en="{&quot;content&quot;:&quot;​<span class=\&quot;u-icon\&quot; style=\&quot;\&quot;><svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot; xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot; version=\&quot;1.1\&quot; xml:space=\&quot;preserve\&quot; class=\&quot;u-svg-content\&quot; viewBox=\&quot;0 0
-								405.333 405.333\&quot; x=\&quot;0px\&quot; y=\&quot;0px\&quot;
-								style="width:"
-								1em; height: 1em;\&quot; data-color=\&quot;#000000\&quot;><path
-									d=\&quot;M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z\&quot;></path>
-								</svg></span>&amp;nbsp;+81 (234)
-								567-8910&quot;,&quot;href&quot;:&quot;#&quot;}"
-								data-lang-ko="{&quot;content&quot;:&quot;​<span
-								class=\&quot;u-icon\&quot; style=""><svg
-										xmlns=\&quot;http://www.w3.org/2000/svg\&quot;
-										xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot;
-										version=\&quot;1.1\&quot; xml:space=\&quot;preserve\&quot;
-										class=\&quot;u-svg-content\&quot; viewBox=\&quot;0
-										0 405.333 405.333\&quot; x=\&quot;0px\&quot;
-										y=\&quot;0px\&quot; style="width:"
-										1em; height: 1em;\&quot; data-color=\&quot;#000000\&quot;>
-											<path
-											d=\&quot;M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z\&quot;></path></svg></span>&amp;nbsp;+81
-								(234) 567-8910&quot;,&quot;href&quot;:&quot;#&quot;}"
-								data-lang-ja="{&quot;content&quot;:&quot;​<span
-								class=\&quot;u-icon u-block-control\&quot; style=""
-								data-block=\&quot;110\&quot;><svg
-										xmlns=\&quot;http://www.w3.org/2000/svg\&quot;
-										xmlns:xlink=\&quot;http://www.w3.org/1999/xlink\&quot;
-										version=\&quot;1.1\&quot; xml:space=\&quot;preserve\&quot;
-										class=\&quot;u-svg-content\&quot; viewBox=\&quot;0
-										0 405.333 405.333\&quot; x=\&quot;0px\&quot;
-										y=\&quot;0px\&quot; style="width:"
-										1em; height: 1em;\&quot; data-color=\&quot;#000000\&quot;>
-											<path
-											d=\&quot;M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z\&quot;></path></svg></span>&amp;nbsp;+81
-								(234) 567-8910&quot;,&quot;href&quot;:&quot;#&quot;}"><span
+								class="u-active-none u-align-right u-btn u-btn-rectangle u-button-style u-hover-none u-none u-btn-2"><span
 								class="u-icon"><svg class="u-svg-content"
 										viewBox="0 0 405.333 405.333" x="0px" y="0px"
 										style="width: 1em; height: 1em;">
@@ -151,28 +84,10 @@ c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"></path></svg></span>
 								<div class="u-block">
 									<div class="u-block-container u-clearfix u-valign-bottom">
 
-										<h5 class="u-block-header u-text u-text-1"
-											data-lang-en="<!--block_header_content-->
-                Block header
-            <!--/block_header_content-->"
-											data-lang-ko="<!--block_header_content-->
-                Block header
-            <!--/block_header_content-->"
-											data-lang-ja="<!--block_header_content-->
-                Block header
-            <!--/block_header_content-->">
+										<h5 class="u-block-header u-text u-text-1">Block header</h5>
 
-											Block header</h5>
-
-										<div class="u-block-content u-text u-text-2"
-											data-lang-en="<!--block_content_content-->
-                Block content.&amp;nbsp;<!--/block_content_content-->"
-											data-lang-ko="<!--block_content_content-->
-                Block content.&amp;nbsp;<!--/block_content_content-->"
-											data-lang-ja="<!--block_content_content-->
-                Block content.&amp;nbsp;<!--/block_content_content-->">
-
-											Block content.&nbsp;</div>
+										<div class="u-block-content u-text u-text-2">Block
+											content.&nbsp;</div>
 
 									</div>
 								</div>
